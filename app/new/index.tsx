@@ -1,5 +1,5 @@
-const git = () => {
-    return (  );
-}
- 
-export default git;
+const NewPage = () => {
+    return ( <></>);
+};
+
+export default NewPage;
